@@ -1,0 +1,20 @@
+Camera:Script(Interactor)
+---------------------------------
+Sphere Layer(Interactables):Script(Interactable)
+---------------------------------
+Canvas:
+InteractIcon
+Hint
+HintBox
+----------------------------------
+DoorHint
+LevelManager
+HintManager
+------------------------------------
+AK:Weapon tag(Grabbable)
+---------------------------
+Char:tag(weapon) , Script(Grab Weapon-Controller)
+------------------------------------
+Layer:Interactables
+------------------------------------
+Chest:Script(Target)-Tag(Chest)
