@@ -1,0 +1,8 @@
+Assets\Scenes\enviroment.unitypackage
+Assets\Sponza\Sponza.fbx
+Library\ArtifactDB
+Library\Artifacts\7e\7ecd449f79ec612fac4a3bd1a9da6343
+Files are missing due to being larger than 100MB
+
+If needed do not hesitate to contact me at:
+mariomedhat323@gmail.com
